@@ -1,0 +1,209 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.head{
+    background-color:black;
+       padding: 25px;
+       padding-left: 100px;
+    font-size: medium; 
+     
+}
+.nav{
+display: flex;
+list-style-type: none;
+justify-content: space-evenly;
+
+}
+li{
+    color: white;
+    font-size: 15px;
+}
+.nav i{
+    color: white;
+}
+.fa-cart-shopping{
+    margin-left: 150px;
+}
+.spa{
+   float: right; 
+ 
+  
+}
+.max{
+    display: flex;
+    justify-content: space-around;
+}
+.sec{
+    background-color: rgb(3, 24, 24);
+    /* padding: 80px 0px; */
+    
+}
+.tor{
+    font-size: xx-large;
+    /* font-weight: 500px; */
+    color: white;
+    /* padding-left: 60px; */
+    text-align: initial;
+    padding-left: 130px;
+   
+}
+.but{
+    justify-content:space-around;
+    display: inline;
+}
+.six{
+    padding-top: 35px;
+    padding-bottom: 20px;
+    padding-left: 130px;
+    
+}
+.sev{
+    display: flex;
+     /* text-align: center;
+     justify-content: space-evenly; */
+     justify-content: space-between;
+     margin-right: 250px;
+
+}
+img{
+   height: 600px; 
+   width: 500px;
+   padding-left: 130px;
+}
+.flex{
+padding-left: 100px;
+padding-top: 100px;
+justify-content: left;
+
+}
+/* .arr{
+    margin-right: 30px;
+    border: 2px solid red;
+    display: inline;
+    border-radius: 15px;
+} */
+ .fa-arrow-left{
+    border: 2px dotted rgb(19, 16, 11);
+    padding: 20px;
+    border-radius: 50%;
+ }
+ .fa-arrow-right{
+    border: 2px solid rgb(19, 16, 9);
+    padding: 20px;
+    border-radius: 50%;
+    margin: 0px 40px;
+ }
+ .pic{
+height: 500px;
+width: 98%;
+padding-right: 0px;
+/* padding-left: 40px; */
+/* margin-left: 30px; */
+
+
+ }
+ .picc{
+    height: 250px;
+    width: 70%;
+    
+ }
+
+.piccc{
+    padding-bottom: 10px;
+   height: 250px;
+   width: 70%;
+}
+
+.whole-cont{
+   display: flex;
+   width: 50%
+   
+}
+
+.container{
+   display: flex;
+   justify-content: space-around;
+   justify-content: center;
+}
+.rit{
+padding-right: 200px;
+
+}
+.just{
+    padding-left: 70px;
+    justify-content: space-around;
+    width: 35%;
+}
+.call{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(248, 242, 242);
+}
+.pig{
+    color: white;
+}
+.pigg{
+     color: white;
+}
+.cow{
+     color: white;
+}
+.coww{
+      color: white;
+}
+.bot{
+    border: 1px solid white;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: rgb(3, 24, 24);
+    color: white;
+    
+}
+.bott{
+    border: 0px solid white;
+    padding: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    background-color: orange;
+    color: white;
+}
+.og{
+   padding-left: 0px;
+}
+.dddd{
+    display: flex;
+    border: 1px solid;
+    width: 60%;
+    justify-content: center;
+    /* border-left: 100px; */
+    
+
+
+}
+.dis{
+    padding-left: 70px;
+    padding-right: 0px;
+
+}
+.diss{
+    color: orange;
+
+}
+.disss{
+    color: white;
+    font-size: 50px;
+
+}
+.foot{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+}
+
+
+
